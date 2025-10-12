@@ -7,12 +7,14 @@
         <span>Laravel 12</span>
         <span>Tailwind CSS 4</span>
         <span>Vue.js 3</span>
+        <span>PrimeVue 4</span>
     </div>
 
     <div class="h-20 flex mt-10 mb-20 items-center justify-center gap-20">
         <img src="/images/laravel-logo.svg" alt="" class="w-32 h-32 object-contain">
         <img src="/images/tailwindcss-logo.svg" alt="" class="w-32 h-32 object-contain">
         <img src="/images/vuejs-logo.svg" alt="" class="w-32 h-32 object-contain">
+        <img src="/images/primevue-logo.svg" alt="" class="w-32 h-32 object-contain">
     </div>
 
     <div class="flex justify-center items-center">

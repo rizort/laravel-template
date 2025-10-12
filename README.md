@@ -1,16 +1,17 @@
-### <p align="center">Laravel 12 + Tailwind CSS 4 + Vue.js 3</p>
+### <p align="center">Laravel 12 + Tailwind CSS 4 + Vue.js 3 + PrimeVue 4</p>
 
 <p align="center">
 <img src="public/images/laravel-logo.svg" alt="" width="85">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="public/images/tailwindcss-logo.svg" alt="" width="90">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="public/images/vuejs-logo.svg" alt="" width="95">
+<img src="public/images/vuejs-logo.svg" alt="" width="95">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="public/images/primevue-logo.svg" alt="" width="75">
 </p>
 
 ### 🔧 Installation
 
 ```bash
 # Clone
-composer create-project rizort/laravel-template project dev-vue3
+composer create-project rizort/laravel-starter-kits project dev-vue3-primevue4
 
 # Install dependencies
 composer setup
